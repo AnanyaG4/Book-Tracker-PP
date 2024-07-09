@@ -14,6 +14,7 @@ This project presents StoryScribe, a Java-based desktop application designed to 
 
 ![Screenshot 2024-07-10 001753](https://github.com/AnanyaG4/Book-Tracker-PP/assets/173183052/e7988f7b-e540-46e6-a96f-01f9f19c1125)
 ![Screenshot 2024-07-10 001829](https://github.com/AnanyaG4/Book-Tracker-PP/assets/173183052/64c8454b-a116-460e-9add-65881819bba4)
+![Screenshot 2024-07-10 001849](https://github.com/AnanyaG4/Book-Tracker-PP/assets/173183052/1e332a88-ccb8-48f8-8e81-dcdcb6f9d110)
 
 ![Screenshot 2024-07-10 001932](https://github.com/AnanyaG4/Book-Tracker-PP/assets/173183052/ac7248ba-a6fa-4017-8eaf-c1bee4567f42)
 
